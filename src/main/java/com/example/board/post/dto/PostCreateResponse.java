@@ -10,6 +10,6 @@ public class PostCreateResponse {
     private Long id;
     private String title;
     private String content;
-    private LocalDateTime CreatedAt;
+    private LocalDateTime createdAt;
 
 }
